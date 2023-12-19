@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "short_name": "",
+  "name": "user-admin",
+  "short_name": "user-admin",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
