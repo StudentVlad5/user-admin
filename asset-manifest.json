@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/user-admin/static/css/main.1ff99ba8.css",
-    "main.js": "/user-admin/static/js/main.94532f38.js",
+    "main.js": "/user-admin/static/js/main.2a71dd43.js",
     "static/media/vlad_warm_color.webp": "/user-admin/static/media/vlad_warm_color.268aa7ed8c294fbc1a5c.webp",
     "index.html": "/user-admin/index.html",
     "main.1ff99ba8.css.map": "/user-admin/static/css/main.1ff99ba8.css.map",
-    "main.94532f38.js.map": "/user-admin/static/js/main.94532f38.js.map"
+    "main.2a71dd43.js.map": "/user-admin/static/js/main.2a71dd43.js.map"
   },
   "entrypoints": [
     "static/css/main.1ff99ba8.css",
-    "static/js/main.94532f38.js"
+    "static/js/main.2a71dd43.js"
   ]
 }
